@@ -1,3 +1,3 @@
-const c = 9
+const c = 4
 
 console.log(c + 1)
